@@ -1,4 +1,4 @@
-https://wallpapers.com/images/featured/discord-2yf3soo8o238y21k.jpg
+# Discord Bot Made In Javascript
 
 ## Features
 
