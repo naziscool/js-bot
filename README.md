@@ -10,3 +10,9 @@
 - [x] Good For Servers
 - [x] Lots Of different commands
 - [x] Working
+
+ ## Install
+
+in your cmd or terminal run: `npm install` or `npm i`
+
+  **IF THE `NPM` COMMAND IS INVAILD, PLEASE INSTALL [NODE.JS](https://nodejs.org/en)**
