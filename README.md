@@ -16,3 +16,7 @@
 in your cmd or terminal run: `npm install` or `npm i`
 
   **IF THE `NPM` COMMAND IS INVAILD, PLEASE INSTALL [NODE.JS](https://nodejs.org/en)**
+
+-----------------------------------------------------------------------------------------------------------
+
+**After you wanna change the file called `.env.update` to just `.env`**
