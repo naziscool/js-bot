@@ -20,3 +20,4 @@ in your cmd or terminal run: `npm install` or `npm i`
 -----------------------------------------------------------------------------------------------------------
 
 **After you wanna change the file called `.env.update` to just `.env`**
+*then insert the following details in the env*
