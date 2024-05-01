@@ -1,0 +1,17 @@
+{
+  "name": "js-bot-github",
+  "version": "0.0.1",
+  "description": "a working discord bot made with javascript. View src: https://github.com/naziscool/js-bot/tree/main",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commandkit": "^0.1.10",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5"
+  }
+}
